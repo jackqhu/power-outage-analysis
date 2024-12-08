@@ -46,9 +46,9 @@ Electrical grid disruptions and blackouts are catastrophic, and severely impact 
 
 Understanding the weather-related blackout relationship can help energy companies better prepare and manage risks, inform public policy decisions on infrastructure, and help analyze vulnerability patterns across different states & contribute to higher accuracy local-level risk maps.
 
-## Preprocessing and Exploratory Data Analysis (EDA)
+## Preprocessing and Exploratory Data Analysis
 
-Data cleaning steps:
+### Data Cleaning Steps
 
 1. Duration standardization:
 - Converted outage durations from minutes to hours for better interpretability.
@@ -58,5 +58,5 @@ Data cleaning steps:
 - Combined multiple urban-related metrics into a single normalized factor
 - Standardized datetime fields to preserve consistency in temporal analysis
 
-Key findings from EDA
+### Key Findings from EDA
 
