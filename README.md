@@ -1,2 +1,5 @@
-# power-outage-analysis
-Project for EECS 398 (Practical Data Science &amp; Applied ML)
+# Extreme Weather and Major U.S. Power Outage Events
+
+By: Jack Q. Hu
+- Email: jackqhu@example.com
+- Website: [jackqhu.github.io/power-outage-analysis](https://jackqhu.github.io/power-outage-analysis)
